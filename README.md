@@ -1,7 +1,24 @@
-# Desafios de código Talentify
+# vuejs-challenge
 
-Esse repositório contem múltiplos desafios de código para vagas de front-end na Talentify.
+## Project setup
+```
+yarn install
+```
 
-Para participar do processo seletivo, basta completar um dos desafios listados acima. 
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-Não existe bonus por completar todos desafios, nem peso diferente por desafio :)
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
